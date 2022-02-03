@@ -1,0 +1,708 @@
+/* Header Homepage */
+
+.bg-image {
+    background-image: url("./images/pic_1.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-color: #071629;
+}
+
+
+.nav-item {
+    font-size: 12px;
+    font-family: 'Source Sans Pro';
+    font-weight: bold;
+}
+
+.nav-img {
+    height: 30px;
+}
+
+.nav-text {
+    height: 30px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar-toggler {
+    border: none !important;
+    width: 44px;
+    height: 30px;
+}
+
+.navbar-toggler .line-1 {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    float: left;
+}
+
+.navbar-toggler .line-2 {
+    width: 13px;
+    height: 2px;
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    float: left;
+}
+
+.navbar-toggler .line-3 {
+    width: 18px;
+    height: 2px;
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    float: left;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.list-header {
+    list-style: none;
+}
+
+.text-header {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: #FFFFFF;
+    line-height: 151px;
+    margin-top: 140px;
+}
+
+.list-item {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.list-item-1, .list-item-2 {
+    padding-right: 59px;
+}
+
+button:hover, button:active {
+    opacity: 0.9;
+}
+
+.btn-header {
+    background: #C271FF;
+    border-radius: 22px;
+    border: none;
+    color: #FFFFFF;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    width: 162px;
+    height: 44px;
+    margin-top: 18px;
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.div-images-text {
+    margin-top: 168px;
+}
+
+strong {
+    font-weight: bold;
+    color: #C271FF;
+}
+
+.text-div-images {
+    font-family: Source Sans Pro;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 87px;
+}
+
+.image-title {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+.image-quote {
+    font-family: Source Sans Pro;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 576px) {
+    .text-header {
+        font-size: 61px;
+    }
+}
+
+/* Header Courses */
+
+.bg-image-courses {
+    background-image: url("./images/pic_3.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-color: #071629;
+    min-height: 216px;
+}
+
+.text-header-courses {
+    font-family: Coiny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Carousel Section */
+
+.carousel-section {
+    background-color: #C271FF;
+}
+
+.carousel-text {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+    max-width: 730px;
+}
+
+.carousel-div {
+    margin-top: 108px;
+    margin-bottom: 124px;
+}
+
+.carousel-image {
+    height: 160px;
+    width: 160px;
+}
+
+.arrow {
+    width: 30px;
+    height: 63px;
+}
+
+#carouselExampleControls {
+    background-color: #C271FF;
+}
+
+@media screen and (max-width: 576px) {
+    .arrow {
+        margin-bottom: 280px;
+    }
+}
+
+/* Carousel Cards Section */
+
+.text-carousel-cards {
+    color: #071629;
+}
+
+.container-text {
+    margin-top: 87px;
+}
+
+.card-title {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+}
+
+.card-text {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.501584);
+}
+
+.image-play {
+    height: 64px;
+    width: 64px;
+    margin: auto;
+}
+
+.image-avatar-card {
+    width: 30px;
+    height: 30px;
+}
+
+.text-image-avatar {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #C271FF;
+}
+
+.star {
+    width: 15px;
+    height: 15px;
+}
+
+.container-cards-videos {
+    max-width: 1228px;
+}
+
+/* Membership Section */
+
+.membership {
+    background-color: #071629;
+    width: 100%;
+}
+
+.membership-pic {
+    width: 45px;
+    height: 36px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.membership-name {
+    max-width: 215px;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 26px;
+    margin-bottom: 13px;
+}
+
+.membership-des {
+    max-width: 215px;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+
+.membership-tittle {
+    font-size: 32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.membership-tittle .learn {
+    color: #C271FF;
+}
+
+.btn-membership {
+    width: 162px;
+    height: 44px;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    background-color: #C271FF;
+    border-radius: 22px;
+    margin-top: 60px;
+    margin-bottom: 52px;
+}
+
+/* Footer */
+
+.footer {
+    height: 249px;
+    background-color: #071629;
+}
+
+.copyright {
+    font-size: 12px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    Line-height: 15px;
+    margin-top: 74px;
+    margin-bottom: 40px;
+    color: #FFFFFF;
+}
+
+.footbar {
+    margin-top: 90px;
+}
+
+.footbar-sm {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.copyright-sm {
+    font-size: 12px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    Line-height: 15px;
+    margin-top: 45px;
+    margin-bottom: 34px;
+    color: #FFFFFF;
+}
+
+.nav-icon-1 {
+    height: 30px;
+}
+
+.nav-icon-2 {
+    height: 30px;
+}
+
+/* Courses Search Filter */
+
+.div-search-filter {
+    background-color: #C271FF;
+}
+
+.btn-dropdown {
+    width: 100%;
+    background: #D195FF !important;
+    border-radius: 3px 3px 0px 0px !important;
+    color: #FFFFFF !important;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300 !important;
+    font-size: 23px !important;
+    line-height: 29px !important;
+}
+
+.btn-dropdown::placeholder {
+    color: #FFFFFF !important;
+}
+
+.dropdown-toggle::after {
+    margin-left: 230px;
+}
+
+.dropdown-menu {
+    width: 92%
+}
+
+.dropdown-menu a:hover {
+    color: #C271FF;
+}
+
+.dropdown-item {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 300 !important;
+    font-size: 15px;
+    line-height: 29px;
+}
+
+.label-select {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    height: 43px;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #FFFFFF;
+    margin-top: 3px;
+}
+
+/* PRICING SITE ****************************************************/
+
+/* Header */
+
+.bg-image-pricing {
+    background-image: url("./images/pic_2.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-color: #071629;
+}
+
+.nav-item {
+    color: #FFFFFF;
+}
+
+.selected {
+    color: #C271FF !important;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-underline-position: under;
+    text-decoration-thickness: 2px;
+}
+
+.pricing-header-container {
+    margin-top: 192px;
+}
+
+.smile-face-img {
+    width: 37px;
+    height: 30px;
+}
+
+.smile-face-tag p {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.h1-text {
+    margin-top: 75px;
+}
+
+.h1-text h1 {
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 75px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/*Table*/
+
+.table-container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buttons-container button {
+    background-color: #C271FF;
+    width: 162px;
+    height: 44px;
+    border-radius: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-family: Source Sans Pro;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    border: #C271FF;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+
+body>header>nav>div.table-container.d-flex.justify-content-center.mt-3>table>tbody>tr:nth-child(5)>td.text-paragraph.align-middle>img {
+    width: 88px;
+    height: 35px;
+    margin-bottom: 4px;
+}
+
+.table .combined-shape {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 28px;
+    height: 28px;
+}
+
+.table .text-paragraph {
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    margin: auto 0 auto 0;
+    justify-content: center;
+    color: #F2F2F2 !important;
+}
+
+.buttons-container .button-container h1 {
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 55px;
+}
+
+.buttons-container .button-container p {
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 15px;
+    margin: auto 0 auto 0;
+    justify-content: center;
+    color: #F2F2F2;
+}
+
+.table thead th {
+    font-family: Source Sans Pro;
+    font-style: 12px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.signal-image {
+    width: 88px;
+    height: 35px;
+}
+
+/* FAQ styles */
+
+.FAQ {
+    min-height: 900px;
+    background-color: #F2F2F2;
+}
+
+.FAQ-name {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px;
+    color: #071629;
+    margin-right: 230px;
+    margin-bottom: 30px;
+    max-width: 350px;
+    min-width: 137.21px;
+}
+
+.FAQ-des {
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.5016);
+    max-width: 350px;
+    margin-bottom: 74px;
+}
+
+.FAQ-tittle {
+    font-size: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    line-height: 75px;
+    color: #071629;
+    margin-top: 74px;
+    margin-bottom: 74px;
+}
+
+/* videos section */
+
+.videos-section {
+    min-height: 1264;
+}
+
+.text-video {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(7, 22, 41, 0.296247);
+    margin-top: 47px;
+    margin-bottom: 33px;
+}
+
+.card-custom {
+    margin-bottom: 35px;
+}
+
+/* prices section */
+
+.header-3 {
+    font-size: 32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: white;
+    line-height: 40px;
+    margin-top: 136px;
+    margin-bottom: 75px;
+}
+
+.bold-text-3 {
+    font-size: 32px;
+    font-family: 'Coiny';
+    font-weight: 400;
+    color: white;
+    line-height: 35px;
+    margin-top: 136px;
+    margin-bottom: 75px;
+
+}
+
+.smile-3 {
+    height: 28px;
+}
+
+.header-4 {
+    font-size: 24px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: white;
+    line-height: 30px;
+    margin-top: 136px;
+    margin-bottom: 50px;
+}
+
+.bold-text-4 {
+    font-size: 24px;
+    font-family: 'Coiny';
+    font-weight: 400;
+    color: white;
+    line-height: 26px;
+    margin-top: 136px;
+    margin-bottom: 50px;
+
+}
+
+.smile-4 {
+    height: 24px;
+}
+
+.header-5 {
+    font-size: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    color: white;
+    line-height: 75px;
+}
